@@ -1,0 +1,6 @@
+{
+  "deploy_type": "github",
+  "s3_bucket": "",
+  "s3_endpoint_url": "",
+  "s3_region": ""
+}
