@@ -1,24 +1,84 @@
 {
   "gallery_title": "SaseHome",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-10-15 21:23:39",
+  "last_updated": "2026-10-15 21:34:59",
   "images": [
+    {
+      "file_hash": "10435e68",
+      "date": "2025-05-18",
+      "title": "amuka03",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "5158d030",
+      "date": "2025-05-18",
+      "title": "tako01",
+      "description": "",
+      "category": "FanArt",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "e36474e5",
+      "date": "2025-05-18",
+      "title": "amuka02",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "6a934d3c",
+      "date": "2025-05-18",
+      "title": "bell01",
+      "description": "",
+      "category": "FanArt",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "2b05e391",
+      "date": "2025-05-18",
+      "title": "hyari02",
+      "description": "",
+      "category": "FanArt",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "8b42b4e1",
+      "date": "2025-05-18",
+      "title": "hyari01",
+      "description": "",
+      "category": "FanArt",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "2e2a95aa",
+      "date": "2025-05-18",
+      "title": "kuroria01",
+      "description": "",
+      "category": "FanArt",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "d88ed754",
       "date": "2025-05-18",
-      "title": "",
+      "title": "amuka01",
       "description": "",
-      "category": "Uncategorized",
+      "category": "FanArt",
       "tags": [],
       "photographer": ""
     }
   ],
   "categories": [
     "Uncategorized",
-    "Main Event",
-    "Selfie",
-    "Landscape",
-    "Group Photo",
     "FanArt"
-  ]
+  ],
+  "base_url": "https://HosizumiSase.github.io/sasehome"
 }
